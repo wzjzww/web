@@ -1,0 +1,38 @@
+.top{
+	width:600px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.button{
+	deplay:inline-block;
+	padding:10px 10px 10px 10px;
+	border:8px 10px;
+	border-radius: 7px;
+	cursor:pointer;
+	text-decoration: none;
+}
+.button:hover{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5), 0 6px 20px 0 rgba(0,0,0,0.3);
+}
+.steal{
+	background: #009688;
+	color: #fff;
+}
+.yellow{
+	background: #ffeb3b;
+	color: #000;
+}
+.orange{
+	background: #ff9800;
+	color: #000;
+}
+.red{
+	background: #f44336;
+	color: #fff;
+}
+.green{
+	background: #4CAF50;
+	color: #fff;
+}
+
+
